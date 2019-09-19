@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { TextInput, StyleSheet, Text, View } from "react-native";
 import io from "socket.io-client";
-
+ var lurl = "http://192.168.0.27";
 export default class App extends Component {
   constructor(props) {
     super(props);
@@ -10,9 +10,8 @@ export default class App extends Component {
       chatMessages: []
     };
   }
-
   componentDidMount() {
-    this.socket = io("http://192.168.0.27:3000");
+    this.socket = io(lurl + ":3000")
     this.socket.on("chat message", msg => {
       this.setState({ chatMessages: [...this.state.chatMessages, msg] });
     });

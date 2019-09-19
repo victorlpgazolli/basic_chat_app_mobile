@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/victorgazolli/projetos/apps/chat/SimpleChat/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/victorgazolli/projetos/apps/chatMobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d4e0c666bd25dea0680983dd5f0e41a8/res/values-v21/values-v21.xml",
