@@ -15,6 +15,8 @@ import com.simplechat.R;
 
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
+// react-native-push-notification
+import com.dieam.reactnativepushnotification.ReactNativePushNotificationPackage;
 
 public class PackageList {
   private Application application;
@@ -48,7 +50,8 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(),
-      new RNGestureHandlerPackage()
+      new RNGestureHandlerPackage(),
+      new ReactNativePushNotificationPackage()
     ));
   }
 }
