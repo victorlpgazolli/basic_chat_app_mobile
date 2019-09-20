@@ -964,8 +964,15 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string default_web_client_id
 string fcm_fallback_notification_channel_label
+string firebase_database_url
+string gcm_defaultSenderId
 string gcm_fallback_notification_channel_label
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
 string header_description
 string image_description
 string imagebutton_description
@@ -974,6 +981,7 @@ string menu_description
 string menubar_description
 string menuitem_description
 string progressbar_description
+string project_id
 string radiogroup_description
 string rn_tab_description
 string scrollbar_description
@@ -1405,4 +1413,5 @@ styleable Toolbar android_gravity android_minHeight buttonGravity collapseConten
 styleable View android_theme android_focusable paddingEnd paddingStart theme
 styleable ViewBackgroundHelper android_background backgroundTint backgroundTintMode
 styleable ViewStubCompat android_id android_layout android_inflatedId
+xml file_paths
 xml rn_dev_preferences

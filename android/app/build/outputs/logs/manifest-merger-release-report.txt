@@ -1,0 +1,394 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-push-notification] /Users/victorgazolli/projetos/apps/chatMobile/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/victorgazolli/projetos/apps/chatMobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b68f4af750b4ce055a34a793c4f3be05/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/67b8720fedb2550343727554033406ff/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/858bda159a525dc588db59ac4aa7e0c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/e29157a7970c350a7ce872227bf8e302/AndroidManifest.xml:17:1-28:12
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a33238b2d5038fc6f2a72846b231c0d8/AndroidManifest.xml:17:1-37:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/c08459595fe0f98319298f84d36ec644/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/e531285ac8d637b1a21353baf0fd89d3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/bf4e62cbd30f87d1a3db65565f55c161/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/2d240b8c1577f38eba9f6965ad814dd6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/5169a7bd68d15577618ce889a5e4998b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/f491e66c499d51fb9e39a2404913760a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/29f8210a08d15efa6286bc5cbe52e8e8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d4b149c42d94f06f23ba25e2e48cd68b/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a84b58243f264e10e843244fb27148a3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/f179563c9a7aa358162fb870f988d675/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/053f36e3aa50162666cd551e5388dcf6/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/75717a96ff09e39d91722c6420814eca/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/cfe33884625cf0d1587cdd3a75a417d9/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b1e6c888d7e09b850e322a93a17c0f34/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/529c7ad49bbd46e2e0c35048a846af04/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/2bf3f880aa63184e013c3fe0dff5ce32/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/76f9ad3ae05ac3926f68b702485c38e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/4e25da26de17264d6310186d9df15a08/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/56619d81628be0dc366378d30d9f73ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/c9b17d52b2eff77cc2be3e88376428d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/54ea00ad3b1b3ef04dab0ec6110b78d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/95e315ddc9dd290040e760bb52709e85/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d5b6fb801c5f513527fa9d8eaf0a5fa1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/05bc6769fbe9a458335bda016b20547c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/13fa470f4482f2cb37db95979a7ba3d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b52513c875ecfc0a9057d520862c2fe0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/5d5d7aac4bd2e8bcc85d9ce623d4c8ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/71ec37c0697d91d1b69cf8ec4d99d390/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/ea62376191249c48008512191ed89ab6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d4e0c666bd25dea0680983dd5f0e41a8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/00a9ba1195e4a66cfc8949f1f4d93c33/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/da6c583c3726f2052483dd4593989403/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a91996424146c7623393381d935130ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/33ad1d962a7ad25b1e4afcd64c9b7e3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/46c5c1934846582ef2c57fd3f6200639/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/581413f307f6349f8e16dcc40ca43b74/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/22eb692fbeaadae60c9723e0051dcf59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/5a26e32515cfae20a37e7d276ac1fe28/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/95751258f3f10100718b13a68d9d987d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b27d7b9767c2b25029ac5340e367a190/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fa32973ae3f9b510d530a86a1da22d7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3f338dc49c7f2cacbbacf50d5a78073f/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/e29157a7970c350a7ce872227bf8e302/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/e29157a7970c350a7ce872227bf8e302/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a84b58243f264e10e843244fb27148a3/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a84b58243f264e10e843244fb27148a3/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b68f4af750b4ce055a34a793c4f3be05/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b68f4af750b4ce055a34a793c4f3be05/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/e29157a7970c350a7ce872227bf8e302/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/e29157a7970c350a7ce872227bf8e302/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a33238b2d5038fc6f2a72846b231c0d8/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a33238b2d5038fc6f2a72846b231c0d8/AndroidManifest.xml:22:5-35:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d4b149c42d94f06f23ba25e2e48cd68b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d4b149c42d94f06f23ba25e2e48cd68b/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a84b58243f264e10e843244fb27148a3/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a84b58243f264e10e843244fb27148a3/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/f179563c9a7aa358162fb870f988d675/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/f179563c9a7aa358162fb870f988d675/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/053f36e3aa50162666cd551e5388dcf6/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/053f36e3aa50162666cd551e5388dcf6/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/75717a96ff09e39d91722c6420814eca/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/75717a96ff09e39d91722c6420814eca/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/cfe33884625cf0d1587cdd3a75a417d9/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/cfe33884625cf0d1587cdd3a75a417d9/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b1e6c888d7e09b850e322a93a17c0f34/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b1e6c888d7e09b850e322a93a17c0f34/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/529c7ad49bbd46e2e0c35048a846af04/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/529c7ad49bbd46e2e0c35048a846af04/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/2bf3f880aa63184e013c3fe0dff5ce32/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/2bf3f880aa63184e013c3fe0dff5ce32/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d4e0c666bd25dea0680983dd5f0e41a8/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d4e0c666bd25dea0680983dd5f0e41a8/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/00a9ba1195e4a66cfc8949f1f4d93c33/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/00a9ba1195e4a66cfc8949f1f4d93c33/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d4e0c666bd25dea0680983dd5f0e41a8/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.simplechat.MainActivity
+ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-push-notification] /Users/victorgazolli/projetos/apps/chatMobile/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/victorgazolli/projetos/apps/chatMobile/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/victorgazolli/projetos/apps/chatMobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/victorgazolli/projetos/apps/chatMobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b68f4af750b4ce055a34a793c4f3be05/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b68f4af750b4ce055a34a793c4f3be05/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/67b8720fedb2550343727554033406ff/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/67b8720fedb2550343727554033406ff/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/858bda159a525dc588db59ac4aa7e0c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/858bda159a525dc588db59ac4aa7e0c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/e29157a7970c350a7ce872227bf8e302/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/e29157a7970c350a7ce872227bf8e302/AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a33238b2d5038fc6f2a72846b231c0d8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a33238b2d5038fc6f2a72846b231c0d8/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/c08459595fe0f98319298f84d36ec644/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/c08459595fe0f98319298f84d36ec644/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/e531285ac8d637b1a21353baf0fd89d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/e531285ac8d637b1a21353baf0fd89d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/bf4e62cbd30f87d1a3db65565f55c161/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/bf4e62cbd30f87d1a3db65565f55c161/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/2d240b8c1577f38eba9f6965ad814dd6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/2d240b8c1577f38eba9f6965ad814dd6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/5169a7bd68d15577618ce889a5e4998b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/5169a7bd68d15577618ce889a5e4998b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/f491e66c499d51fb9e39a2404913760a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/f491e66c499d51fb9e39a2404913760a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/29f8210a08d15efa6286bc5cbe52e8e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/29f8210a08d15efa6286bc5cbe52e8e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d4b149c42d94f06f23ba25e2e48cd68b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d4b149c42d94f06f23ba25e2e48cd68b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a84b58243f264e10e843244fb27148a3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a84b58243f264e10e843244fb27148a3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/f179563c9a7aa358162fb870f988d675/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/f179563c9a7aa358162fb870f988d675/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/053f36e3aa50162666cd551e5388dcf6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/053f36e3aa50162666cd551e5388dcf6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/75717a96ff09e39d91722c6420814eca/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/75717a96ff09e39d91722c6420814eca/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/cfe33884625cf0d1587cdd3a75a417d9/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/cfe33884625cf0d1587cdd3a75a417d9/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b1e6c888d7e09b850e322a93a17c0f34/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b1e6c888d7e09b850e322a93a17c0f34/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/529c7ad49bbd46e2e0c35048a846af04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/529c7ad49bbd46e2e0c35048a846af04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/2bf3f880aa63184e013c3fe0dff5ce32/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/2bf3f880aa63184e013c3fe0dff5ce32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/76f9ad3ae05ac3926f68b702485c38e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/76f9ad3ae05ac3926f68b702485c38e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/4e25da26de17264d6310186d9df15a08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/4e25da26de17264d6310186d9df15a08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/56619d81628be0dc366378d30d9f73ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/56619d81628be0dc366378d30d9f73ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/c9b17d52b2eff77cc2be3e88376428d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/c9b17d52b2eff77cc2be3e88376428d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/54ea00ad3b1b3ef04dab0ec6110b78d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/54ea00ad3b1b3ef04dab0ec6110b78d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/95e315ddc9dd290040e760bb52709e85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/95e315ddc9dd290040e760bb52709e85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d5b6fb801c5f513527fa9d8eaf0a5fa1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d5b6fb801c5f513527fa9d8eaf0a5fa1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/05bc6769fbe9a458335bda016b20547c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/05bc6769fbe9a458335bda016b20547c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/13fa470f4482f2cb37db95979a7ba3d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/13fa470f4482f2cb37db95979a7ba3d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b52513c875ecfc0a9057d520862c2fe0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b52513c875ecfc0a9057d520862c2fe0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/5d5d7aac4bd2e8bcc85d9ce623d4c8ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/5d5d7aac4bd2e8bcc85d9ce623d4c8ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/71ec37c0697d91d1b69cf8ec4d99d390/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/71ec37c0697d91d1b69cf8ec4d99d390/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/ea62376191249c48008512191ed89ab6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/ea62376191249c48008512191ed89ab6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d4e0c666bd25dea0680983dd5f0e41a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/d4e0c666bd25dea0680983dd5f0e41a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/00a9ba1195e4a66cfc8949f1f4d93c33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/00a9ba1195e4a66cfc8949f1f4d93c33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/da6c583c3726f2052483dd4593989403/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/da6c583c3726f2052483dd4593989403/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a91996424146c7623393381d935130ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a91996424146c7623393381d935130ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/33ad1d962a7ad25b1e4afcd64c9b7e3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/33ad1d962a7ad25b1e4afcd64c9b7e3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/46c5c1934846582ef2c57fd3f6200639/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/46c5c1934846582ef2c57fd3f6200639/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/581413f307f6349f8e16dcc40ca43b74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/581413f307f6349f8e16dcc40ca43b74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/22eb692fbeaadae60c9723e0051dcf59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/22eb692fbeaadae60c9723e0051dcf59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/5a26e32515cfae20a37e7d276ac1fe28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/5a26e32515cfae20a37e7d276ac1fe28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/95751258f3f10100718b13a68d9d987d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/95751258f3f10100718b13a68d9d987d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b27d7b9767c2b25029ac5340e367a190/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/b27d7b9767c2b25029ac5340e367a190/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fa32973ae3f9b510d530a86a1da22d7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fa32973ae3f9b510d530a86a1da22d7c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3f338dc49c7f2cacbbacf50d5a78073f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3f338dc49c7f2cacbbacf50d5a78073f/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/victorgazolli/projetos/apps/chatMobile/android/app/src/main/AndroidManifest.xml
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/e29157a7970c350a7ce872227bf8e302/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a84b58243f264e10e843244fb27148a3/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a84b58243f264e10e843244fb27148a3/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/e29157a7970c350a7ce872227bf8e302/AndroidManifest.xml:23:22-79
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/3294ebaecd8c24efc53827bf56675f25/AndroidManifest.xml:39:22-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a33238b2d5038fc6f2a72846b231c0d8/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a33238b2d5038fc6f2a72846b231c0d8/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a33238b2d5038fc6f2a72846b231c0d8/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a33238b2d5038fc6f2a72846b231c0d8/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a33238b2d5038fc6f2a72846b231c0d8/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a33238b2d5038fc6f2a72846b231c0d8/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/a33238b2d5038fc6f2a72846b231c0d8/AndroidManifest.xml:32:25-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/fb128bfd4af0016b0d2065b1e743f2e3/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/053f36e3aa50162666cd551e5388dcf6/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/053f36e3aa50162666cd551e5388dcf6/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/053f36e3aa50162666cd551e5388dcf6/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/053f36e3aa50162666cd551e5388dcf6/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/cfe33884625cf0d1587cdd3a75a417d9/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/cfe33884625cf0d1587cdd3a75a417d9/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/cfe33884625cf0d1587cdd3a75a417d9/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/cfe33884625cf0d1587cdd3a75a417d9/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/cfe33884625cf0d1587cdd3a75a417d9/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/2bf3f880aa63184e013c3fe0dff5ce32/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/2bf3f880aa63184e013c3fe0dff5ce32/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/2bf3f880aa63184e013c3fe0dff5ce32/AndroidManifest.xml:24:13-58

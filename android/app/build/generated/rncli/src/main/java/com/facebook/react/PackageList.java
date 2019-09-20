@@ -17,6 +17,8 @@ import com.simplechat.R;
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 // react-native-push-notification
 import com.dieam.reactnativepushnotification.ReactNativePushNotificationPackage;
+// react-native-send-intent
+import com.burnweb.rnsendintent.RNSendIntentPackage;
 
 public class PackageList {
   private Application application;
@@ -51,7 +53,8 @@ public class PackageList {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(),
       new RNGestureHandlerPackage(),
-      new ReactNativePushNotificationPackage()
+      new ReactNativePushNotificationPackage(),
+      new RNSendIntentPackage()
     ));
   }
 }

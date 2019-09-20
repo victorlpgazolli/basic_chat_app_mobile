@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Sep 20 15:14:04 BRT 2019
+#Fri Sep 20 19:13:19 BRT 2019
 33.base=/Users/victorgazolli/projetos/apps/chatMobile/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 47.base=/Users/victorgazolli/projetos/apps/chatMobile/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 50.base=/Users/victorgazolli/projetos/apps/chatMobile/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

@@ -4,7 +4,7 @@
             "outputFile": "/Users/victorgazolli/projetos/apps/chatMobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/858bda159a525dc588db59ac4aa7e0c0/res/values-port/values-port.xml",
+                    "source": "/Users/victorgazolli/.gradle/caches/transforms-2/files-2.1/117b5a67f285b3e86e2aed26c9c2aa24/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
